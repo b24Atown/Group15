@@ -2,7 +2,7 @@ package IQ;
 
 import java.util.Scanner;
 
-public class Question7 {
+public class Question {
     public static void main(String[] args) {
         //test
         Scanner input = new Scanner(System.in);
