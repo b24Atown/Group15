@@ -10,12 +10,6 @@ public class Question {
         String word = input.next();
         int x = word.length();
 
-        for (int i = 0; i < word.length(); i++) {
-            if(Character.isUpperCase(word.charAt(i))) {
-                char y = word.charAt(i);
-                str = str + y + " ";
-            }
-        }
         System.out.println(str);
 
     }
