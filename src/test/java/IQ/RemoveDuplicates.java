@@ -23,7 +23,7 @@ Ex:  removeDup("AAABBBCCC")  ==> ABC
 
             }
             duplicate = "" + s.charAt(i);
-            if (count > 1 && !fixed.contains(duplicate)) {
+            if (count >=1 && !fixed.contains(duplicate)) {
                 fixed += s.charAt(i);
             }
         }
