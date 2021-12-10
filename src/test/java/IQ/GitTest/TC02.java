@@ -7,8 +7,10 @@ public class TC02 {
         System.out.println("Make some changes");
 
 
-        System.out.println("Fixed it");
 
+
+        System.out.println("adding more");
+        System.out.println("another line");
     }
 
 }
