@@ -8,5 +8,6 @@ public class TC03 {
         System.out.println("adding a line 8");
         System.out.println("from sarah");
         System.out.println("checking in");
+        System.out.println("hi");
     }
 }
