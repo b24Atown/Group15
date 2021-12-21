@@ -5,5 +5,8 @@ public class Ardit2 {
         System.out.println("Hi");
         System.out.println("Hello" + "");
         System.out.println("another line");
+        System.out.println("sdf");
+        System.out.println("more");
+
     }
 }
