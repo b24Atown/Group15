@@ -5,4 +5,5 @@ public class Ardit4 {
     byte b;
     short c;
     long d;
+    byte e;
 }
