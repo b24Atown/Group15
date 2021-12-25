@@ -8,6 +8,5 @@ public class Ardit {
         System.out.println("more changes");
         System.out.println("more");
         int a;
-        byte b;
     }
 }
