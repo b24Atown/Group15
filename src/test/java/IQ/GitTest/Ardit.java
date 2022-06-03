@@ -8,5 +8,8 @@ public class Ardit {
         System.out.println("more changes");
         System.out.println("more");
         System.out.println("ardit22");
+
+        int a;
+
     }
 }
