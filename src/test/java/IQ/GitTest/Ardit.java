@@ -10,6 +10,7 @@ public class Ardit {
         System.out.println("ardit22");
 
         int a;
+        System.out.println("ardit222");
 
     }
 }
